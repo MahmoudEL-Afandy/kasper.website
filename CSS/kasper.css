@@ -103,6 +103,8 @@ header {
     left: 0;
     width: 100%;
     z-index: 2;
+    position: fixed;
+    background-color: var(--transparent-color);
 }
 
 header .container {
