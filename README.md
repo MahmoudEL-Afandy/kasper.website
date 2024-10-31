@@ -117,7 +117,7 @@ Follow us on social media:
 
  
 
-Thank you for visiting **Leon Website one of Mahmoud Elafandy websites**! 
+Thank you for visiting **Kasper Website one of Mahmoud Elafandy websites**! 
 
  
 
